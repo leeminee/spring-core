@@ -1,7 +1,5 @@
 package hello.core.member;
 
-import java.util.Objects;
-
 public class Member {
 
     private Long id;
